@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0066-plus-one) |
+| [0303-range-sum-query-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

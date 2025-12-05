@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
@@ -93,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |

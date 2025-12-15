@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -78,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |

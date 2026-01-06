@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0414-third-maximum-number) |

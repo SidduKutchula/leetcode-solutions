@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

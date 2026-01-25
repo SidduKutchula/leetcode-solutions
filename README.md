@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [0661-image-smoother](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0661-image-smoother) |
 ## Sliding Window
 |  |
 | ------- |

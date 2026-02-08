@@ -264,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

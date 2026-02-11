@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0079-word-search) |
 | [0412-fizz-buzz](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 ## Trie
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |

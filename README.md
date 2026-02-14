@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |

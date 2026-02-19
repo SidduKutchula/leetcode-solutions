@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

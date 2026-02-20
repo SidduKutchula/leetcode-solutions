@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0706-design-hashmap](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0706-design-hashmap](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0706-design-hashmap](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting

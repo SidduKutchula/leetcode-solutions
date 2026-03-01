@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String Matching
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |

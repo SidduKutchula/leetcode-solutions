@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1037-valid-boomerang](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1037-valid-boomerang](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1037-valid-boomerang) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0706-design-hashmap) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->

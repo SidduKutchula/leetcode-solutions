@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1037-valid-boomerang](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/SidduKutchula/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SidduKutchula/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
